@@ -1,3 +1,7 @@
+/**
+* This is a comment	
+*/
+
 package hello;
 
 public class HelloWorld {
